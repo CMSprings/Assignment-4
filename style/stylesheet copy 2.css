@@ -1,0 +1,74 @@
+body {
+    font-family: "Arial", Helvetica, sans-serif;
+    width: 100%;
+}
+
+.footer-image{
+  width: 100%;
+}
+
+.cat-sideimage{
+  float: right;
+}
+
+.img1 {
+  padding: 0;
+  margin: 0;
+}
+
+figure {
+  padding: 0;
+  margin: 0;
+}
+
+ul {
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", Helvetica, sans-serif;
+  text-align: center;
+  padding: 20px 0 20px 0;
+}
+
+.menu li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+
+.menu li:after {
+  content: " /"
+}
+
+.menu ul {
+  background-color: #E8E8E8;
+  margin:0;
+  padding:0;
+}
+
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 1.3rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+.header-image {
+  width: 100%;
+}
+
+.booknow {
+}

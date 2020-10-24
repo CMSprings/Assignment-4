@@ -1,0 +1,15 @@
+<style>
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", serif;
+}
+
+.menu {
+text-align: center;
+}
+
+.menu > li {
+  display: inline-block;
+}
+</style>
